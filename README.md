@@ -1,31 +1,4 @@
-# online-flight-booking-system
-An Online Flight Booking System developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap. The system allows users to search, book, and manage flights with an admin dashboard for flight management.
-## Features
 
-- User Registration & Login
-- Flight Search
-- Flight Booking
-- E-Ticket Generation
-- Booking History
-- Feedback System
-- Admin Dashboard
-- Flight Management
-- Passenger Management
-
-## Technologies Used
-
-- PHP
-- MySQL
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-## Requirements
-
-- XAMPP/WAMP
-- PHP 7.x or later
-- MySQL
 <div align="center">
 
 # ✈️ Online Flight Booking System
@@ -300,84 +273,14 @@ Admin Dashboard
 
 ---
 
-# 📂 Project Structure
 
-```
-online-flight-booking-system/
-│
-├── admin/
-├── assets/
-├── helpers/
-├── includes/
-├── sub-views/
-├── vendor/
-├── DATABASE FILE/
-│
-├── screenshots/
-│
-├── index.php
-├── login.php
-├── register.php
-├── payment.php
-├── e_ticket.php
-├── README.md
-└── .gitignore
-```
 
----
 
-# ⚙ Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/online-flight-booking-system.git
-```
-
-## Import Database
-
-Import
-
-```
-DATABASE FILE/ofbsphp.sql
-```
-
-using **phpMyAdmin**.
-
----
-
-## Run
-
-```
-localhost/online-flight-booking-system
-```
-
----
-
-# 🚀 Future Scope
-
-- Email Notifications
-- Online Payment Gateway
-- Mobile Responsive UI
-- Live Flight Tracking
-- QR Code Boarding Pass
-- Seat Selection
-- OTP Authentication
-
----
-
-# 👨‍💻 Author
-
-**Shreyas K**
-
-Bachelor of Engineering (Information Science & Engineering)
-
-📧 Email: shreyask3002@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this project useful, please give it a Star ⭐
+
 
 </div>
